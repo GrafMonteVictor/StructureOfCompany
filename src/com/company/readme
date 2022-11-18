@@ -1,0 +1,2 @@
+This application reads info from Employers.txt and creates newFile.txt in same directory.
+And the app prints to a console count of employers and an average salary.
